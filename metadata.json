@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI Companion",
+  "description": "An AI browser companion simulation that reads webpages, summarizes content, captures memory, and provides smart resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

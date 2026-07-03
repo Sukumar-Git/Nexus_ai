@@ -1,0 +1,40 @@
+{
+  "memories": [],
+  "notes": [],
+  "recommendations": [
+    {
+      "id": "r1",
+      "title": "Google GenAI SDK Documentation",
+      "url": "https://github.com/google/generative-ai-js",
+      "description": "The official GitHub repository and guide for the modern @google/genai TypeScript SDK.",
+      "category": "docs",
+      "matchReason": "Directly related to building smart LLM applications and using advanced cognitive features."
+    },
+    {
+      "id": "r2",
+      "title": "Vite Extension Build Guide (CRXJS)",
+      "url": "https://crxjs.dev/vite-plugin",
+      "description": "Learn how to configure Vite with CRXJS plugin for hot-reload in Chrome Extensions.",
+      "category": "guide",
+      "matchReason": "A useful guide for bundling and deploying Chrome extension assets with Manifest V3."
+    },
+    {
+      "id": "r3",
+      "title": "Tailwind CSS v4.0 Release Guide",
+      "url": "https://tailwindcss.com/blog/v4-0",
+      "description": "An overview of the new CSS-first configuration and high-performance engine in Tailwind CSS v4.",
+      "category": "tutorial",
+      "matchReason": "Provides modern CSS-first styling practices for highly customizable web components."
+    }
+  ],
+  "preferences": {
+    "interests": [
+      "Artificial Intelligence",
+      "Software Development",
+      "Web Technologies",
+      "Productivity"
+    ],
+    "readingLevel": "intermediate",
+    "proactivity": "medium"
+  }
+}
